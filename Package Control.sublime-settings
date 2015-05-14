@@ -1,0 +1,41 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Clipboard Manager",
+		"EditorConfig",
+		"Emmet",
+		"Gradle_Language",
+		"Handlebars",
+		"HTMLBeautify",
+		"JavaScript & NodeJS Snippets",
+		"JavaScriptNext - ES6 Syntax",
+		"Jest",
+		"JSCS-Formatter",
+		"JsFormat",
+		"JSONLint",
+		"LESS",
+		"Local History",
+		"Markdown Preview",
+		"Package Control",
+		"Random Everything",
+		"ReactJS",
+		"Require CommonJS Modules Helper",
+		"Sass",
+		"SASS Snippets",
+		"SassBeautify",
+		"SCSS",
+		"SideBarEnhancements",
+		"Stylus",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jscs",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-jsxhint",
+		"Theme - Flatland",
+		"Vagrant"
+	]
+}
