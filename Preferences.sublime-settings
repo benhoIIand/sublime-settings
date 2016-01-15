@@ -11,7 +11,8 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Sublime Linter"
+		"Sublime Linter",
+		"Vintage"
 	],
 	"scroll_past_end": true,
 	"tab_size": 4,
