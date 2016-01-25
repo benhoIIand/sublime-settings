@@ -17,7 +17,7 @@
     // match your system convention. For example, Windows machines should
     // have a path similar to "C:\\Users\\username\\site\\_posts".
     // *nix systems should have a path similar to "/Users/username/site/_posts".
-    "posts_path": "/Users/bholland/Projects/benholland.me/_posts",
+    "posts_path": "/Users/bholland/Projects/benholland.me/_posts/2016",
 
     // This should point to your "_drafts" directory.
     // NOTE: This should be an absolute path. Also, the path should
