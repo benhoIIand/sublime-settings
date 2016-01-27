@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Advanced CSV",
 		"Clipboard Manager",
 		"DocBlockr",
 		"EditorConfig",
