@@ -6,11 +6,11 @@
 	"installed_packages":
 	[
 		"Advanced CSV",
+		"AutoFileName",
 		"Clipboard Manager",
 		"DocBlockr",
 		"EditorConfig",
 		"Emmet",
-		"FuzzyFilePath",
 		"Google Spell Check",
 		"Gradle_Language",
 		"Handlebars",
