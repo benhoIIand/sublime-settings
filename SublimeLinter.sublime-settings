@@ -27,6 +27,11 @@
                 "@disable": false,
                 "args": [],
                 "excludes": []
+            },
+            "xo": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
             }
         },
         "mark_style": "outline",

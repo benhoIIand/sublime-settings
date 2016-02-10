@@ -24,6 +24,7 @@
 		"JSONLint",
 		"LESS",
 		"Local History",
+		"Lodash modules snippets",
 		"Markdown Preview",
 		"Package Control",
 		"PowerShell",
@@ -38,10 +39,9 @@
 		"Stylus",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-jscs",
-		"SublimeLinter-jshint",
 		"SublimeLinter-json",
-		"SublimeLinter-jsxhint",
 		"Theme - Flatland",
 		"Vagrant"
 	]
