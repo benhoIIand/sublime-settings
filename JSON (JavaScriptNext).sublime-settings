@@ -2,6 +2,8 @@
 	"extensions":
 	[
 		".eslintrc",
-		".jshintrc"
+		".jshintrc",
+		".babelrc",
+		".stylintrc"
 	]
 }

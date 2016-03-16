@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+> * Yesterday*
+${1}
+> * Today*
+${2}
+> * Blockers*
+${3:None}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>standup</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

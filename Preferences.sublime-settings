@@ -1,7 +1,7 @@
 {
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/SublimeLinter/Flatland Dark (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/amCoder (SL).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"flatland_sidebar_tree_small": true,
 	"flatland_square_tabs": true,
@@ -16,7 +16,7 @@
 	],
 	"scroll_past_end": true,
 	"tab_size": 4,
-	"theme": "Flatland Dark.sublime-theme",
+	"theme": "amCoder.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?",
