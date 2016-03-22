@@ -1,0 +1,5 @@
+{
+    "shell": true,
+    "working_dir": "${project_path:${folder}}",
+    "cmd": ["%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\msbuild", "C:\\PATH_TO_SOLUTION\\solution.sln"]
+}
