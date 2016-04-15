@@ -1,10 +1,10 @@
 <snippet>
     <content><![CDATA[
-> * Yesterday*
+> *Yesterday*
 ${1}
-> * Today*
+> *Today*
 ${2}
-> * Blockers*
+> *Blockers*
 ${3:None}
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
